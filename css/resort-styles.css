@@ -5,3 +5,24 @@ body {
 p {
   font-family: fantasy;
 }
+
+ul {
+  font-family: fantasy;
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+img {
+  border-radius: 50%;
+  display: inline-block;
+  margin: auto;
+  width: 70%;
+}
+
+.home-photo {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  width: 70%;
+}
