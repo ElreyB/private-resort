@@ -4,4 +4,49 @@ body {
 
 p {
   font-family: fantasy;
+  font-size: 20px;
+}
+
+.activities-list {
+  font-family: fantasy;
+  font-size: 20px;
+  list-style-type: none;
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+img {
+  border-radius: 50%;
+  display: inline-block;
+  margin: auto;
+  width: 70%;
+}
+
+.home-photo {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+ul {
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  margin: 30px;
+  font-size: 25px;
+}
+
+footer {
+  display: block;
+  text-align: center;
+  padding-left: auto;
+  padding-right: auto;
 }
