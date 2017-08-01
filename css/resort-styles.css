@@ -4,10 +4,13 @@ body {
 
 p {
   font-family: fantasy;
+  font-size: 20px;
 }
 
-ul {
+.activities-list {
   font-family: fantasy;
+  font-size: 20px;
+  list-style-type: none;
   display: block;
   margin: auto;
   width: 40%;
@@ -27,6 +30,23 @@ img {
   width: 70%;
 }
 
+ul {
+  font-family: fantasy;
+  font-size: 20px;
+}
+
 h1 {
   text-align: center;
+}
+
+a {
+  margin: 30px;
+  font-size: 25px;
+}
+
+footer {
+  display: block;
+  text-align: center;
+  padding-left: auto;
+  padding-right: auto;
 }
